@@ -1,0 +1,11 @@
+txHash for Contract
+column txhash table name "loan_contract"
+
+txHash for Documents
+column txhash table name "loan_documents"
+
+txHash for Audit
+column audit_txhash table name "loan_documents"
+
+txHash for Legal
+column legal_txhash table name "loan_documents"

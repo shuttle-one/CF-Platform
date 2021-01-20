@@ -1,0 +1,3 @@
+<?
+echo 'DATA FROM PAGE';
+?>
